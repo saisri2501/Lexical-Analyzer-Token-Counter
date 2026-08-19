@@ -312,7 +312,7 @@ a || b;
 
 This tests multi-character operators.
 
-## 10. Conclusion
+# 10. Conclusion
 
 The Java-based lexical analyzer successfully reads a C source-code file, identifies different types of tokens, classifies them, and counts the number of tokens in each category.
 
